@@ -1,0 +1,3 @@
+This is an awesome file I added directly from GitHub.com
+and Now I am abıut to commit directly to GitHub.com remote repository
+This is not something we would do normally
